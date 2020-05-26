@@ -1,0 +1,74 @@
+y@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+body {
+  font-family:'lato',sans-serif;
+}
+.logo {
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+.header {
+ width:100%;
+ background-color:;
+ height:10vh;
+ color:black;
+ text-align:center;
+ font-size:2em;
+ padding-top:15px;
+}
+.back {
+  width:10%;
+  background-color:;
+  height:50px;
+  color:black;
+  padding-top:5px;
+  position:absolute;
+  right:80px;
+  top:20px;
+  -webkit-transition:all 0.5s;
+}
+.back:hover {
+  background-color:white;
+  color:green;
+}
+.sidebar {
+width:200px;
+background-color:white;
+padding:20px;
+position:absolute;
+left:-200px;
+-webkit-transition:all 1s;
+}
+.sidebar:hover {
+  left:0px;
+}
+.arrow {
+  float:right;
+  width:10%;
+  padding-right:-10px;
+}
+.sidebar a {
+  text-decoration:none;
+  color:black;
+  -webkit-transition:all 0.5s;
+}
+.sidebar a:hover {
+  background-color:;
+  padding:10px;
+}
+.textpage1 {
+  width:30%;
+  background-color:;
+  height:82%;
+  
+  padding:10px;
+  font-size:20px;
+}
+.text {
+  width:30%;
+  height:82%;
+  float:left;
+  background-color:;
+  text-align:center;
+  padding:10px;
+  font-size:20px;
