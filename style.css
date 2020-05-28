@@ -1,22 +1,27 @@
-<html>
-<head>
-  <title></title>
-  <style type="text/css">
-  body {
-    padding-left: 11em;
-    font-family: Georgia, "Times New Roman",
-          Times, serif;
-    color: purple;
-    background-color: #d8da3d }
-  ul.navbar {
-    position: absolute;
-    top: 2em;
-    left: 1em;
-    width: 9em }
-  h1 {
-    font-family: Helvetica, Geneva, Arial,
-          SunSans-Regular, sans-serif }
-  </style>
-</head>
 
-<body> 
+html, body {
+  font-family: sans-serif;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+p {
+  max-width: 65%;
+  min-width: 500px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2.6rem;
+}
+
+div {
+  padding-right: 30px;
+  height: 100%;
+  width: 100%;
+}
