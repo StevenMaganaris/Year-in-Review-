@@ -33,30 +33,5 @@ div {
  text-align:center;
  font-size:2em;
  padding-top:15px;
-}
-.back {
-  width:10%;
-  background-color:#f59842;
-  height:50px;
-  color:black;
-  padding-top:5px;
-  position:absolute;
-  right:80px;
-  top:20px;
-  -webkit-transition:all 0.5s;
-}
-.back:hover {
-  background-color:white;
-  color:white;
-}
-
-}
-.sidebar a {
-  text-decoration:none;
-  color:black;
-  -webkit-transition:all 0.5s;
-}
-.sidebar a:hover {
-  background-color:lightgray;
-  padding:10px;
 } 
+
